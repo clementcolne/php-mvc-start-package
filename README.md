@@ -3,7 +3,6 @@
 This repository is a template of PHP MVC architecture.
 
 <h2>How to use this template ?</h2>
-</br>
 <h2>Views: </h2>
 </br>
 The package <b>views</b> contains all the views of the project. For each page of your project, create a new
