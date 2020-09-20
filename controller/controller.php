@@ -3,7 +3,7 @@
 session_start();
 
 /**
- * Loads the home page view
+ * Display the home page
  */
 function homePageView() {
     require('views/homePageView.php');

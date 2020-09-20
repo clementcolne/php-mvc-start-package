@@ -1,8 +1,10 @@
 <?php
 
-/* This file is a rooter, it redirects the user to the asked view */
+/*
+  This file is a rooter, it redirects the user to the asked view using the controller
+*/
 
-require('model/model.php');
+require('controller/controller.php');
 
 try{
   if(isset($_GET['action'])) {
