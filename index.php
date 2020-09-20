@@ -2,7 +2,7 @@
 
 /* This file is a rooter, it redirects the user to the asked view */
 
-require('controller/controller.php');
+require('model/model.php');
 
 try{
   if(isset($_GET['action'])) {
