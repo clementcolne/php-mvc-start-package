@@ -16,9 +16,9 @@ You have to add the functions for the logic of you application in a new class, a
 </br>
 
 <h3>controller package: </h3>
-The package <b>controller</b> contains the logic of the application. <b>Manager.php</b> contains the connexion to the database.
-Tou have to adapt the informations for the database connexion.</br>
-You have to add the functions for the logic of you application in a new class, and make it extends <b>Manager.php</b> if you need a database connexion.
+The package <b>controller</b> contains all the functions to display views. The goal of this file is to get datas from model, and require a view. Thank's to 
+this action, the view will be able to display all the needed datas. Keep in mind the view's job is only to display datas. All the data processing has to be 
+done in the controller.
 </br>
 
 <h3>views package: </h3>
