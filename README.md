@@ -1,6 +1,6 @@
 # php-mvc-start-package
 
-This repository is a template of PHP MVC architecture.
+This repository is a template of PHP MVC architecture. You are free to use it for your projects for a fast start. No license is applied.</br>
 
 <h2>How to use this template ?</h2>
 
