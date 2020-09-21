@@ -2,6 +2,11 @@
 
 This repository is a template of PHP MVC architecture. You are free to use it for your projects for a fast start. No license is applied.</br>
 
+Class diagram: </br>
+<p align="center">
+  <img src="assets/readme/uml.png" width="800" title="class diagram">
+</p>
+
 <h2>How to use this template ?</h2>
 
 <h3>index: </h3>
