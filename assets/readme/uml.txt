@@ -1,0 +1,17 @@
+@startuml
+package views {
+class template
+}
+
+package controller {
+class Controller
+}
+
+package model {
+class Manager
+}
+
+controller *-- index : use
+model *-- controller : use
+views *-- controller : use
+@enduml
