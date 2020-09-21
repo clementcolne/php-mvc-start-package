@@ -4,7 +4,7 @@ This repository is a template of PHP MVC architecture. You are free to use it fo
 
 Class diagram: </br>
 <p align="center">
-  <img src="assets/readme/uml.png" width="400" title="class diagram">
+  <img src="assets/readme/uml.png" width="250" title="class diagram">
 </p>
 
 <h2>How to use this template ?</h2>
